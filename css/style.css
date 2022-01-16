@@ -1,0 +1,35 @@
+__container {
+    border: 0.8rem solid red;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+
+    width: auto;
+    height: auto;
+
+    margin: auto;
+    padding: auto;
+
+}
+
+
+__items {
+    border: 0.8rem solid blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+
+    width: auto;
+    height: auto;
+
+    margin: auto;
+    padding: auto;
+
+}
